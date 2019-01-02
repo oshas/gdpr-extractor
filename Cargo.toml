@@ -1,0 +1,11 @@
+[package]
+name = "extractor"
+version = "0.1.0"
+authors = ["Axel Forsman <axelsfor@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+fantoccini = "0.11.6"
+futures = "0.1.14"
+tokio = "0.1"
